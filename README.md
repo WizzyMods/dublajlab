@@ -31,15 +31,15 @@ tools/make_og.py  → OG görselini yeniden üretir
 | `versions` | Sürüm geçmişi |
 | `contactEmail` | İletişim adresi |
 
-### Satışı açmak
+### Satış
 
-`site.json` içinde:
+Satış açık. `site.json` içindeki `gumroadUrl` Gumroad ürününe bağlı:
 
-```json
-"gumroadUrl": "https://kullanici.gumroad.com/l/xxxxxx"
+```
+https://tunahansen8.gumroad.com/l/gubcbw
 ```
 
-push et. Butonlar otomatik olarak satın alma moduna geçer.
+Link değişirse sadece bu satırı güncelle ve push et.
 
 ### Ses örneği eklemek
 

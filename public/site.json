@@ -2,14 +2,14 @@
   "brand": "DublajLab",
   "siteUrl": "https://dublajlab.pages.dev",
   "contactEmail": "destek@dublajlab.com",
-  "gumroadUrl": "",
+  "gumroadUrl": "https://tunahansen8.gumroad.com/l/gubcbw",
   "price": { "amount": 6.99, "currency": "USD" },
   "version": "1.0",
   "gameVersion": "1.0",
   "product": {
     "title": {
-      "tr": "Türkçe Dublaj + Altyazı Paketi",
-      "en": "Turkish Dub + Subtitle Pack"
+      "tr": "GTA 6 Türkçe Dublaj + Altyazı Paketi",
+      "en": "GTA 6 Turkish Dub + Subtitle Pack"
     },
     "subtitle": {
       "tr": "Tüm diyaloglar Türkçe seslendirildi, altyazılar dublaja göre düzenlendi.",
