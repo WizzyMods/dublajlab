@@ -1,0 +1,78 @@
+{
+  "nav.home": "Home",
+  "nav.samples": "Audio samples",
+  "nav.install": "Install",
+  "nav.versions": "Versions",
+  "nav.faq": "FAQ",
+  "nav.contact": "Contact",
+
+  "hero.eyebrow": "Turkish dub + subtitles",
+  "hero.title": "Play it in <em>Turkish</em>.",
+  "hero.lead": "Every line voiced in Turkish, subtitles matched to the dub. One payment, one pack — ready the moment you download it.",
+  "hero.priceNote": "one-time · no subscription",
+  "hero.secondary": "Hear the samples",
+
+  "cta.buy": "Buy now",
+  "cta.soon": "On sale soon",
+  "cta.once": "one-time",
+  "cta.details": "What's inside?",
+
+  "trust.payment": "Secure checkout via Gumroad",
+  "trust.card": "Card details never touch us",
+  "trust.refund": "7-day refund window",
+
+  "badge.nopc": "No computer needed",
+  "badge.once": "One-time payment",
+  "badge.instant": "Instant download",
+  "badge.updates": "Updates included",
+
+  "samples.title": "Hear the difference",
+  "samples.sub": "Same line, two languages. Switch with TR/EN, press ▶ to listen.",
+  "samples.empty": "Audio samples are coming here shortly.",
+  "samples.play": "Play",
+  "samples.missing": "This sample is not uploaded yet.",
+  "samples.legend": "Samples are shortened and published only to preview the pack.",
+
+  "features.title": "What's inside?",
+  "features.sub": "No hype: you know exactly what you get.",
+
+  "steps.title": "How it works",
+  "steps.sub": "Three steps, one payment.",
+  "steps.1t": "Buy",
+  "steps.1d": "Card, Apple Pay, Google Pay or PayPal through Gumroad.",
+  "steps.2t": "Download",
+  "steps.2d": "Once payment clears, the download sits in your Gumroad library.",
+  "steps.3t": "Install",
+  "steps.3d": "Follow the install steps. Stuck? Message us and we fix it together.",
+
+  "compat.title": "Compatibility",
+  "compat.lead": "Pack version and game version must match. If the game updates, a matching pack version is published here.",
+  "compat.current": "Current pack",
+  "compat.game": "Supported game version",
+  "compat.install": "Install steps",
+
+  "faq.title": "Frequently asked",
+  "faq.sub": "Can't find it? Just ask us.",
+  "faq.more": "All questions",
+
+  "final.title": "Ready when you are",
+  "final.lead": "One payment, instant download, updates included.",
+  "final.guarantee": "If anything goes wrong, message us first — we fix it.",
+
+  "ver.title": "Version history",
+  "ver.lead": "Pack updates and the game versions they support.",
+  "ver.empty": "Release notes coming soon.",
+
+  "install.title": "Installation",
+  "install.lead": "Step-by-step guide.",
+  "install.soon": "Install steps are being prepared. Until this page is complete, message us wherever you get stuck — buyers also receive it by email.",
+  "install.nopc": "No computer is needed for installation.",
+
+  "foot.tagline": "Turkish dub packs",
+  "foot.rights": "All rights reserved.",
+  "foot.terms": "Terms",
+  "foot.refund": "Refund policy",
+  "foot.contact": "Contact",
+  "foot.versions": "Versions",
+  "foot.disclaimer": "DublajLab is an independent fan project, not affiliated with the game's developer or publisher. All trademarks, game and character rights belong to their respective owners. The audio pack is for personal use only and may not be resold."
+}

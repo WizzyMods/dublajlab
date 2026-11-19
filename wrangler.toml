@@ -1,0 +1,8 @@
+# DublajLab — Cloudflare Pages yapılandırması
+# Statik site: ./public · build adımı yok · API/fonksiyon yok
+#
+# Gizli değerler buraya yazılmaz. Deploy GitHub Actions üzerinden yapılır.
+
+name = "dublajlab"
+pages_build_output_dir = "./public"
+compatibility_date = "2025-01-01"

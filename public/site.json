@@ -1,0 +1,136 @@
+{
+  "brand": "DublajLab",
+  "siteUrl": "https://dublajlab.pages.dev",
+  "contactEmail": "destek@dublajlab.com",
+  "gumroadUrl": "",
+  "price": { "amount": 6.99, "currency": "USD" },
+  "version": "1.0",
+  "gameVersion": "1.0",
+  "product": {
+    "title": {
+      "tr": "Türkçe Dublaj + Altyazı Paketi",
+      "en": "Turkish Dub + Subtitle Pack"
+    },
+    "subtitle": {
+      "tr": "Tüm diyaloglar Türkçe seslendirildi, altyazılar dublaja göre düzenlendi.",
+      "en": "Every cutscene voiced in Turkish, subtitles matched to the dub."
+    }
+  },
+  "features": [
+    {
+      "tr": "Tüm diyaloglar Türkçe",
+      "en": "Full Turkish dialogue"
+    },
+    {
+      "tr": "Altyazı dosyaları dahil",
+      "en": "Subtitle files included"
+    },
+    {
+      "tr": "Bilgisayar gerekmez",
+      "en": "No computer needed"
+    },
+    {
+      "tr": "Tek seferlik ödeme",
+      "en": "One-time payment"
+    },
+    {
+      "tr": "Güncellemeler dahil",
+      "en": "Updates included"
+    },
+    {
+      "tr": "Ödeme sonrası anında indirme",
+      "en": "Instant download after checkout"
+    }
+  ],
+  "samples": [],
+  "faq": [
+    {
+      "q": {
+        "tr": "Kurulum için bilgisayar gerekiyor mu?",
+        "en": "Do I need a computer to install it?"
+      },
+      "a": {
+        "tr": "Hayır. Paket bilgisayar gerektirmez.",
+        "en": "No. The pack does not require a computer."
+      }
+    },
+    {
+      "q": {
+        "tr": "Paketin içinde ne var?",
+        "en": "What is inside the pack?"
+      },
+      "a": {
+        "tr": "Türkçe dublaj ses dosyaları ve dublajla eşleşen altyazı dosyaları tek arşivde gelir.",
+        "en": "Turkish dub audio files plus matching subtitle files, delivered as a single archive."
+      }
+    },
+    {
+      "q": {
+        "tr": "Hangi oyun sürümüyle uyumlu?",
+        "en": "Which game version is supported?"
+      },
+      "a": {
+        "tr": "Paket, oyunun 1.0 sürümüyle uyumludur. Oyun güncellenirse uyumlu paket sürümü bu sitede yayınlanır.",
+        "en": "The pack supports game version 1.0. If the game receives an update, a matching pack version is published here."
+      }
+    },
+    {
+      "q": {
+        "tr": "Güncellemeler için tekrar ödeme yapacak mıyım?",
+        "en": "Do I pay again for updates?"
+      },
+      "a": {
+        "tr": "Hayır. Yeni sürümler aynı satın alma ile Gumroad kütüphanende görünür.",
+        "en": "No. New versions appear in your Gumroad library under the same purchase."
+      }
+    },
+    {
+      "q": {
+        "tr": "Çevrimiçi modlarda çalışır mı?",
+        "en": "Does it work in online modes?"
+      },
+      "a": {
+        "tr": "Paket hikâye ve çevrimdışı içerik için hazırlandı. Çevrimiçi modlarda kullanım önerilmez.",
+        "en": "The pack is built for story and offline content. Use in online modes is not recommended."
+      }
+    },
+    {
+      "q": {
+        "tr": "Ödeme nasıl yapılıyor?",
+        "en": "How does payment work?"
+      },
+      "a": {
+        "tr": "Ödemeler Gumroad üzerinden alınır: kredi/banka kartı, Apple Pay, Google Pay ve PayPal. Kart bilgin bize hiç gelmez.",
+        "en": "Payments run through Gumroad: credit/debit card, Apple Pay, Google Pay and PayPal. Your card details never reach us."
+      }
+    },
+    {
+      "q": {
+        "tr": "İade alabilir miyim?",
+        "en": "Can I get a refund?"
+      },
+      "a": {
+        "tr": "Satın almadan sonraki 7 gün içinde iade talep edebilirsin. Koşullar iade politikasında.",
+        "en": "You can request a refund within 7 days of purchase. Conditions are in the refund policy."
+      }
+    }
+  ],
+  "versions": [
+    {
+      "version": "1.0",
+      "date": "2026-11-19",
+      "notes": {
+        "tr": [
+          "Tüm hikâye diyalogları Türkçe dublajlandı",
+          "Altyazı dosyaları dublaja göre düzenlendi",
+          "Oyun sürümü 1.0 ile uyumlu"
+        ],
+        "en": [
+          "All story dialogue dubbed in Turkish",
+          "Subtitles matched to the dub",
+          "Compatible with game version 1.0"
+        ]
+      }
+    }
+  ]
+}

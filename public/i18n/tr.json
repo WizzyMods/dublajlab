@@ -1,0 +1,78 @@
+{
+  "nav.home": "Ana sayfa",
+  "nav.samples": "Ses örnekleri",
+  "nav.install": "Kurulum",
+  "nav.versions": "Sürümler",
+  "nav.faq": "SSS",
+  "nav.contact": "İletişim",
+
+  "hero.eyebrow": "Türkçe dublaj + altyazı",
+  "hero.title": "Oyunu <em>Türkçe</em> oyna.",
+  "hero.lead": "Tüm diyaloglar Türkçe seslendirildi, altyazılar dublaja göre düzenlendi. Tek ödeme, tek paket — indirdiğin gibi kullanmaya başla.",
+  "hero.priceNote": "tek seferlik · abonelik yok",
+  "hero.secondary": "Ses örneklerini dinle",
+
+  "cta.buy": "Satın Al",
+  "cta.soon": "Yakında satışta",
+  "cta.once": "tek ödeme",
+  "cta.details": "Pakette ne var?",
+
+  "trust.payment": "Gumroad ile güvenli ödeme",
+  "trust.card": "Kart bilgin bize hiç gelmez",
+  "trust.refund": "7 gün iade hakkı",
+
+  "badge.nopc": "Bilgisayar gerekmez",
+  "badge.once": "Tek ödeme",
+  "badge.instant": "Anında indirme",
+  "badge.updates": "Güncellemeler dahil",
+
+  "samples.title": "Kulakla karşılaştır",
+  "samples.sub": "Aynı replik, iki dil. TR/EN düğmesiyle geçiş yap, ▶ ile dinle.",
+  "samples.empty": "Ses örnekleri kısa süre içinde burada olacak.",
+  "samples.play": "Dinle",
+  "samples.missing": "Bu örnek henüz yüklenmedi.",
+  "samples.legend": "Örnekler kısaltılmıştır ve yalnızca paketi tanıtmak için yayınlanır.",
+
+  "features.title": "Pakette ne var?",
+  "features.sub": "Abartılı vaat yok: ne aldığını önceden bil.",
+
+  "steps.title": "Nasıl çalışır?",
+  "steps.sub": "Üç adım, tek ödeme.",
+  "steps.1t": "Satın al",
+  "steps.1d": "Gumroad üzerinden kart, Apple Pay, Google Pay veya PayPal.",
+  "steps.2t": "İndir",
+  "steps.2d": "Ödeme onaylanınca indirme bağlantısı Gumroad kütüphanende hazır olur.",
+  "steps.3t": "Kur",
+  "steps.3d": "Kurulum adımlarını takip et. Takılırsan bize yaz, birlikte çözeriz.",
+
+  "compat.title": "Uyumluluk",
+  "compat.lead": "Paket sürümü ile oyun sürümü eşleşmeli. Oyun güncellenirse uyumlu paket sürümü burada yayınlanır.",
+  "compat.current": "Güncel paket",
+  "compat.game": "Desteklenen oyun sürümü",
+  "compat.install": "Kurulum adımları",
+
+  "faq.title": "Sık sorulanlar",
+  "faq.sub": "Aradığını bulamadıysan bize yaz.",
+  "faq.more": "Tüm sorular",
+
+  "final.title": "Hazırsan başlayalım",
+  "final.lead": "Tek ödeme, anında indirme, güncellemeler dahil.",
+  "final.guarantee": "Bir şey ters giderse önce yaz, çözüm bulunur.",
+
+  "ver.title": "Sürüm geçmişi",
+  "ver.lead": "Paket güncellemeleri ve uyumlu oyun sürümleri.",
+  "ver.empty": "Sürüm notları yakında.",
+
+  "install.title": "Kurulum",
+  "install.lead": "Adım adım kurulum rehberi.",
+  "install.soon": "Kurulum adımları hazırlanıyor. Bu sayfa tamamlanana kadar takıldığın her yerde bize yazabilirsin; satın alanlara e-postayla da iletiyoruz.",
+  "install.nopc": "Kurulum için bilgisayar gerekmez.",
+
+  "foot.tagline": "Türkçe dublaj paketleri",
+  "foot.rights": "Tüm hakları saklıdır.",
+  "foot.terms": "Kullanım şartları",
+  "foot.refund": "İade politikası",
+  "foot.contact": "İletişim",
+  "foot.versions": "Sürümler",
+  "foot.disclaimer": "DublajLab bağımsız bir hayran projesidir; oyunun yapımcısı veya yayıncısıyla bağlantılı değildir. Tüm marka, oyun ve karakter hakları ilgili sahiplerine aittir. Ses paketi yalnızca kişisel kullanım içindir, yeniden satılamaz."
+}
