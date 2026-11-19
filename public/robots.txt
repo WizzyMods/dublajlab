@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /sartlar.html
-Disallow: /iade.html
+Disallow: /sartlar
+Disallow: /iade
